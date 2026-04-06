@@ -1,12 +1,19 @@
 # Tobias Jonas Chaves
-_puedo hablar
+soy estudiante de aviónica
 
-_🇬🇧-ingles_
+# puedo hablar
+_🇬🇧 inglés_
 
-_🇩🇪-aleman basico_
+_🇩🇪 alemán básico_
 
-_🇲🇫-frances basico_
+_🇲🇫 francés básico_
 
+# hobbies
 _soy nadador de alto rendimiento_
 
+_diseñador gráfico_
+
+_creador de power point_
+
+# donde encontrarme
  instagram [tobi_chaves1502](https://www.instagram.com/).
