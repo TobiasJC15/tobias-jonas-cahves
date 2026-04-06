@@ -1,5 +1,5 @@
 # Tobias Jonas Chaves
-_puedo hablar 
+_puedo hablar
 
 _🇬🇧-ingles_
 
@@ -9,4 +9,4 @@ _🇲🇫-frances basico_
 
 _soy nadador de alto rendimiento_
 
- instagram = @tobi_chaves1502
+ instagram [tobi_chaves1502](https://www.instagram.com/).
